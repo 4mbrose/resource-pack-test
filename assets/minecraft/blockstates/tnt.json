@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "tnt" , "weight" : 3999},
+		{ "model": "tnt" , "weight" : 3999 , "y" : 90 },
+		{ "model": "tnt" , "weight" : 3999 , "y" : 180 },
+		{ "model": "tnt" , "weight" : 3999 , "y" : 270 },
+		{ "model": "tnt2" , "weight" : 4}
+		]
+    }
+}
