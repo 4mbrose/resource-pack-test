@@ -3,5 +3,10 @@
 		"sounds":[
 			"rockmyboot"
 		]
+	},
+	"puzzle.map_start":{
+		"sounds":[
+			"puzzle/map_start"
+		]
 	}
 }
