@@ -1,12 +1,62 @@
 {
 	"peach.boot":{
 		"sounds":[
-			"rockmyboot"
+			{"name": "rockmyboot", "stream": true}
 		]
 	},
 	"puzzle.map_start":{
 		"sounds":[
-			"puzzle/map_start"
+			{"name": "puzzle/map_start", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.bass":{
+		"sounds":[
+			{"name": "ost/puzzle1/bass", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.bdrum":{
+		"sounds":[
+			{"name": "ost/puzzle1/bdrum", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.click":{
+		"sounds":[
+			{"name": "ost/puzzle1/click", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.harp":{
+		"sounds":[
+			{"name": "ost/puzzle1/harp", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.harp2":{
+		"sounds":[
+			{"name": "ost/puzzle1/harp2", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.icechime":{
+		"sounds":[
+			{"name": "ost/puzzle1/icechime", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.xylobone":{
+		"sounds":[
+			{"name": "ost/puzzle1/xylobone", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1.full":{
+		"sounds":[
+			{"name": "ost/puzzle1/puzzle1", "stream": true}
+		]
+	},
+	"puzzle.hint":{
+		"sounds":[
+			{"name": "hint", "stream": false}
+		]
+	},
+	"puzzle.complete":{
+		"sounds":[
+			{"name": "complete", "stream": false}
 		]
 	}
 }
