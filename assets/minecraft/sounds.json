@@ -58,5 +58,10 @@
 		"sounds":[
 			{"name": "complete", "stream": false}
 		]
+	},
+	"puzzle.checkpoint":{
+		"sounds":[
+			{"name": "checkpoint", "stream": false}
+		]
 	}
 }
