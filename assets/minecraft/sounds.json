@@ -44,6 +44,41 @@
 			{"name": "ost/puzzle1/xylobone", "stream": false}
 		]
 	},
+	"puzzle.ost.puzzle2.bdrum":{
+		"sounds":[
+			{"name": "ost/puzzle2/bdrum", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.bell":{
+		"sounds":[
+			{"name": "ost/puzzle2/bell", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.icechime":{
+		"sounds":[
+			{"name": "ost/puzzle2/icechime", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.pling":{
+		"sounds":[
+			{"name": "ost/puzzle2/pling", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.sdrum":{
+		"sounds":[
+			{"name": "ost/puzzle2/sdrum", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.xylobone":{
+		"sounds":[
+			{"name": "ost/puzzle2/xylobone", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle2.xylobone2":{
+		"sounds":[
+			{"name": "ost/puzzle1/xylobone2", "stream": false}
+		]
+	},
 	"puzzle.ost.puzzle1.full":{
 		"sounds":[
 			{"name": "ost/puzzle1/puzzle1", "stream": true}
