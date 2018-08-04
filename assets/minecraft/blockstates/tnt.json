@@ -1,11 +1,11 @@
 {
     "variants": {
-        "normal": [
-		{ "model": "tnt" , "weight" : 120},
-		{ "model": "tnt" , "weight" : 120 , "y" : 90 },
-		{ "model": "tnt" , "weight" : 120 , "y" : 180 },
-		{ "model": "tnt" , "weight" : 120 , "y" : 270 },
-		{ "model": "tnt2" , "weight" : 1}
+        "": [
+		{ "model": "block/tnt" , "weight" : 120},
+		{ "model": "block/tnt" , "weight" : 120 , "y" : 90 },
+		{ "model": "block/tnt" , "weight" : 120 , "y" : 180 },
+		{ "model": "block/tnt" , "weight" : 120 , "y" : 270 },
+		{ "model": "block/tnt2" , "weight" : 1}
 		]
     }
 }

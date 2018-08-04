@@ -4,87 +4,7 @@
 			{"name": "rockmyboot", "stream": true}
 		]
 	},
-	"puzzle.map_start":{
-		"sounds":[
-			{"name": "puzzle/map_start", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.bass":{
-		"sounds":[
-			{"name": "ost/puzzle1/bass", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.bdrum":{
-		"sounds":[
-			{"name": "ost/puzzle1/bdrum", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.click":{
-		"sounds":[
-			{"name": "ost/puzzle1/click", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.harp":{
-		"sounds":[
-			{"name": "ost/puzzle1/harp", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.harp2":{
-		"sounds":[
-			{"name": "ost/puzzle1/harp2", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.icechime":{
-		"sounds":[
-			{"name": "ost/puzzle1/icechime", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.xylobone":{
-		"sounds":[
-			{"name": "ost/puzzle1/xylobone", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.bdrum":{
-		"sounds":[
-			{"name": "ost/puzzle2/bdrum", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.bell":{
-		"sounds":[
-			{"name": "ost/puzzle2/bell", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.icechime":{
-		"sounds":[
-			{"name": "ost/puzzle2/icechime", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.pling":{
-		"sounds":[
-			{"name": "ost/puzzle2/pling", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.sdrum":{
-		"sounds":[
-			{"name": "ost/puzzle2/sdrum", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.xylobone":{
-		"sounds":[
-			{"name": "ost/puzzle2/xylobone", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle2.xylobone2":{
-		"sounds":[
-			{"name": "ost/puzzle1/xylobone2", "stream": false}
-		]
-	},
-	"puzzle.ost.puzzle1.full":{
-		"sounds":[
-			{"name": "ost/puzzle1/puzzle1", "stream": true}
-		]
-	},
-	"puzzle.hint":{
+    "puzzle.hint":{
 		"sounds":[
 			{"name": "hint", "stream": false}
 		]
@@ -97,6 +17,36 @@
 	"puzzle.checkpoint":{
 		"sounds":[
 			{"name": "checkpoint", "stream": false}
+		]
+	},
+	"puzzle.map_start":{
+		"sounds":[
+			{"name": "puzzle/map_start", "stream": false}
+		]
+	},
+	"puzzle.ost.puzzle1":{
+		"sounds":[
+			{"name": "ost/puzzle1/puzzle1", "stream": true}
+		]
+	},
+	"puzzle.ost.puzzle2":{
+		"sounds":[
+			{"name": "ost/puzzle2/puzzle2", "stream": true}
+		]
+	},
+    "puzzle.ost.puzzle3":{
+		"sounds":[
+			{"name": "ost/puzzle3/puzzle3", "stream": true}
+		]
+	},
+    "puzzle.ost.puzzle4":{
+		"sounds":[
+			{"name": "ost/puzzle4/puzzle4", "stream": true}
+		]
+	},
+    "puzzle.ost.puzzle5":{
+		"sounds":[
+			{"name": "ost/puzzle5/puzzle5", "stream": true}
 		]
 	}
 }
