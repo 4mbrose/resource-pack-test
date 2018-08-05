@@ -29,6 +29,11 @@
 			{"name": "ost/puzzle1/puzzle1", "stream": true}
 		]
 	},
+    "puzzle.ost.puzzlei":{
+		"sounds":[
+			{"name": "ost/puzzle1/puzzle1d", "stream": true}
+		]
+	},
 	"puzzle.ost.puzzle2":{
 		"sounds":[
 			{"name": "ost/puzzle2/puzzle2", "stream": true}
@@ -47,6 +52,11 @@
     "puzzle.ost.puzzle5":{
 		"sounds":[
 			{"name": "ost/puzzle5/puzzle5", "stream": true}
+		]
+	},
+    "puzzle.ost.puzzlev":{
+		"sounds":[
+			{"name": "ost/puzzle5/puzzle5d", "stream": true}
 		]
 	}
 }
