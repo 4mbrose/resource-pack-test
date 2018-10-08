@@ -1,7 +1,12 @@
 {
-	"peach.boot":{
+	"peach_boot.rock_my_boot":{
 		"sounds":[
 			{"name": "rockmyboot", "stream": true}
+		]
+	},
+    "peach_boot.rainbow_boot":{
+		"sounds":[
+			{"name": "rainbowboot", "stream": true}
 		]
 	},
     "puzzle.hint":{
